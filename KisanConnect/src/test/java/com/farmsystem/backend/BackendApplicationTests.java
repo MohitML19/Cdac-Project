@@ -1,10 +1,10 @@
-package com.app;
+package com.farmsystem.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KisanConnectApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	void contextLoads() {
